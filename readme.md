@@ -1,3 +1,5 @@
+<B>Process Resource Simulator </B>
+
 This is a program that simulates Process and Resource Management.
 The program takes into account three different states, ready, running and blocked.
 
