@@ -1,6 +1,6 @@
 <B>Process Resource Simulator </B>
 
-This is a program that simulates Process and Resource Management.
+This is a program written for Linux/Unix formatted text files that simulates Process and Resource Management.
 The program takes into account three different states, ready, running and blocked.
 
 The process have different operations such as create, request, release, and destroy.
